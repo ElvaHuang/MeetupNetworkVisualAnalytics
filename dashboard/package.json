@@ -1,0 +1,26 @@
+{
+  "name": "neo4j-meetup-dashboard-ui",
+  "version": "0.0.1",
+  "keywords": [
+    "node",
+    "neo4j",
+    "express",
+    "api",
+    "http",
+    "rest",
+    "swagger",
+    "server",
+    "movies"
+  ],
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "express": ">= 4.0.x"
+  },
+ 
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
