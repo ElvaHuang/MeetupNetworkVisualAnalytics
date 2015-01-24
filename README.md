@@ -31,4 +31,5 @@ Start Neo4j server at  `http://localhost:7474 `
 
 
 ## Acknowledgement 
-* This is a fork project from [kbastiain](https://github.com/kbastani/meetup-analytics/edit/master/README.md) . We would like to thank him for developing and open sourcing the Meetup Analytics platform that inspired our work.
+* This project is a fork of [kbastiain](https://github.com/kbastani/meetup-analytics/edit/master/README.md) . We would like to thank him for developing and open sourcing the Meetup Analytics platform that inspired our work.
+
